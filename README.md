@@ -1,2 +1,2 @@
 # Hello-world
-Just creating a sample repositry
+This readme file is from master
